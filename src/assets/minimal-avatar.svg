@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="500" height="500" viewBox="0 0 500 500" xml:space="preserve">
+<desc>Created with Fabric.js 4.4.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="white"></rect>
+<g transform="matrix(1 0 0 1 250 250)" id="bd8ce677-b734-4b64-9b18-339300c60d43"  >
+<circle style="stroke: rgb(118,255,186); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(118,255,186); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="168.47" />
+</g>
+<g transform="matrix(1 0 0 1 254 122)" id="a0a4f686-0456-4f04-8cdd-bb8b18729e74"  >
+<polygon style="stroke: rgb(29,79,124); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(29,79,124); fill-rule: nonzero; opacity: 1;"  points="-127,11 203,63 203,-105 -203,-22 -185,105 -88,85 -127,11 " />
+</g>
+<g transform="matrix(1 0 0 1 305 230)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 -55.5 0)" id="a4ba6a87-9300-4f30-9ebf-b974250fe154"  >
+<rect style="stroke: rgb(41,211,162); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(41,211,162); fill-rule: nonzero; opacity: 1;"  x="-22" y="-15.53" rx="0" ry="0" width="44" height="31.06" />
+</g>
+		<g transform="matrix(1 0 0 1 55.5 0)" id="a4ba6a87-9300-4f30-9ebf-b974250fe154"  >
+<rect style="stroke: rgb(41,211,162); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(41,211,162); fill-rule: nonzero; opacity: 1;"  x="-22" y="-15.53" rx="0" ry="0" width="44" height="31.06" />
+</g>
+</g>
+</g>
+<g transform="matrix(1 0 0 1 303.5 318.5)" id="a04773d5-57f0-42a0-a47b-6dd49d97ca7f"  >
+<path style="stroke: rgb(0,173,127); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,173,127); fill-rule: nonzero; opacity: 1;"  transform=" translate(-303.5, -318.5)" d="M 334 356 L 273 356 C 269.1340067511845 356 266 352.8659932488155 266 349 L 266 288 C 266 284.1340067511845 269.1340067511845 281 273 281 L 334 281 C 337.8659932488155 281 341 284.1340067511844 341 288 L 341 349 C 341 352.8659932488155 337.8659932488155 356 334 356 Z M 280 342 L 327 342 L 327 295 L 280 295 Z" stroke-linecap="round" />
+</g>
+</svg>
