@@ -710,8 +710,8 @@ export class metrices {
   stats() {
     var user_map = this.user_map;
     var df = this.df;
-    console.log(this.user_map);
-    console.log(this.df);
+    // console.log(this.user_map);
+    // console.log(this.df);
     var total_user = (Object.keys(user_map)).length
     var total_message = 0;
     var longest_message_len = 0;
