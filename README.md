@@ -1,27 +1,20 @@
-# ChatAnalyser
+# 🔥Chat Analyser🔥  
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
+[![Abhishek LinkedIn](https://img.shields.io/badge/Abhishek-LinkedIn-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/abhi5h3k/) [![Abhishek StackOverflow](https://img.shields.io/badge/Abhishek-StackOverflow-orange.svg?style=for-the-badge)](https://stackoverflow.com/users/6870223/abhi?tab=profile)
 
-## Development server
+![image](https://user-images.githubusercontent.com/37928721/123064614-0e63c080-d42c-11eb-9b05-23c3f1ae7b4a.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Demo
+[chat analyser](http://chatanalyser.devabhi.in/)
 
-## Code scaffolding
+![chat analyser](https://media.giphy.com/media/67NK5peWJsRO0s3leL/giphy.gif)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Note:
+1. It is a free time fun project (Days spent 3)
+2. Many things can be improved like  andding new analytics and optimisation
+3. I will make minor changes bit by bit :)
 
-## Build
+## Authors
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+* **Abhishek Bhardwaj** - *Stackoverflow profile* - [Stackoverflow profile](https://stackoverflow.com/users/6870223/abhi?tab=profile)
+			  *Linkedin profile* - [Linkedin profile](https://www.linkedin.com/in/abhishek-bhardwaj-b16764166)
