@@ -7,12 +7,23 @@
 ## Demo
 [chat analyser](http://chatanalyser.devabhi.in/)
 
+![Demo gif](https://media.giphy.com/media/wO0hSOj6T1fmSOB0cx/giphy.gif)
+
+Steps:
+1. [Export whatsapp chat data ](https://faq.whatsapp.com/android/chats/how-to-save-your-chat-history/?lang=en)
+
 ![chat analyser](https://media.giphy.com/media/67NK5peWJsRO0s3leL/giphy.gif)
+
+2. Open exported text file in the webapp
+
 
 Note:
 1. It is a free time fun project (Days spent 3)
-2. Many things can be improved like  andding new analytics and optimisation
-3. I will make minor changes bit by bit :)
+2. I will make minor changes bit by bit :)
+
+Future scope:
+1. Andding new analytics 
+2. Change Theme 
 
 ## Authors
 
